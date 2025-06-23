@@ -24,6 +24,10 @@
 | 엄지승, Eom Ji Seung   | Visual + Info Blend           | New Champ (Zilean), Game Mode                           | Skin                                                           |
 | 조효희, Jo hyo hee   | Info & Banner Presentation    | Character List, Patch Note, Riot Games Section          | Character Detail                                    |
 
+</br>
+
+> README Author & Final Compiler: 김채연, Kim chae yeon
+
 <br/>
 <br/>
 <br/>
