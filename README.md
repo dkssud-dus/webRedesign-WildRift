@@ -194,8 +194,8 @@
 </br>
 
 ### 2.4. OS
-1. Window 11
-2. Window 10
+1. Windows 11
+2. Windows 10
 
 </br>
 </br>
