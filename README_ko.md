@@ -1,9 +1,8 @@
+
+---
+`#RedesignProject` `#GameWebsite` `#TeamProject` `#4PeopleTeam` `#PCOnly` 
 # **Website Redesign Project Details:**
 ### 와일드 리프트 Wild Rift
-
-<br/>
-
-`#RedesignProject` `#GameWebsite` `#TeamProject` `#4PeopleTeam` `#PCOnly` 
 
 <br/>
 <br/>
