@@ -136,7 +136,7 @@
 #### 1.2.6. Character Detail
 | Before | After |
 |--------|-------|
-| ![image](https://github.com/user-attachments/assets/7ae25579-922a-4bd6-8d61-401f3c8af3ec) | ![image](https://github.com/user-attachments/assets/280684a9-9a17-4872-bf9c-3f12a9ab3756) |
+| ![image](https://github.com/user-attachments/assets/7ae25579-922a-4bd6-8d61-401f3c8af3ec) | ![image](https://github.com/user-attachments/assets/ea4aec75-125a-48f4-8d28-e537f910a362) |
 
 </br>
 
