@@ -231,14 +231,15 @@
 
 ## 4. Resources
 ### 4.1. Project Brief
-1. Figma
+1. [Figma](https://www.figma.com/deck/CMCSS23yKzPgwZ0JdnJOAk/-webRedesign--Wild-Rift--Project-Brief-?node-id=3-42&t=x0k2ji74IdbRiXPo-1)      
+This Project Brief (in Korean) was individually written and organized by **Kim Chae Yeon (김채연)** based on a team project.          
 
 </br>
 </br>
 </br>
 
 ### 4.2. Design Brief
-1. Figma
+1. [Figma](https://www.figma.com/design/K2NZgSBC0pxUIwae6TqgY5/-webRedesign--Wild-Rift--Design-Brief-?node-id=2-2&t=LKJLEQE10b5StP40-1)
 
 </br>
 </br>
